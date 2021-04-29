@@ -27,6 +27,7 @@
     "sql-tag": "1.0.1",
     "html-pdf-node": "^1.0.7",
     "pdfmake": "^0.1.70",
+    "exceljs": "^4.2.1",
     "qrcode-svg": "^1.1.0"
   }
 }
